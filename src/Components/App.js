@@ -20,11 +20,11 @@ class App extends Component {
       <div className="container-fluid animated zoomIn">
         <div className="row">
 
-          <div className="col-md-6 hvr-bob bg-primary">
+          <div className="col-md-6 hvr-hang bg-primary">
             <Content number="1"/>
           </div>
 
-          <div className="col-md-6 hvr-bob bg-success">
+          <div className="col-md-6 hvr-hang bg-success">
             <Content number="2"/>
           </div>
 
